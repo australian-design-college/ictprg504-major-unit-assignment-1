@@ -1,4 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-ReactDOM.render(<h1>Working!</h1>, document.getElementById("reactRoot"));
+import Root from "components/Root";
+
+ReactDOM.render(<Root />, document.getElementById("reactRoot"));
