@@ -30,9 +30,10 @@
     "react-dom": "~16.2.0",
     "sass-loader": "~6.0.6",
     "style-loader": "~0.19.1",
-    "webpack": "~3.10.0"
+    "webpack": "~4.28.2",
+    "webpack-cli": "~3.1.2"
   },
   "devDependencies": {
-    "webpack-dev-server": "~2.11.1"
+    "webpack-dev-server": "~3.1.14"
   }
 }
